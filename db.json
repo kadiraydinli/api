@@ -39,13 +39,7 @@
     "posts": [
         {
             "id": "1",
-            "user": {
-                "id": "1",
-                "username": "Dylan_Wehner",
-                "name": "Miss Yvette Cummings",
-                "avatar": "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg",
-                "createdAt": "2023-03-01T04:16:21.098Z"
-            },
+            "userId": 1,
             "likeCount": 234,
             "commentCount": 65,
             "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
@@ -60,13 +54,7 @@
         },
         {
             "id": "2",
-            "user": {
-                "id": "2",
-                "username": "Evalyn_Will",
-                "name": "Noah Kuvalis",
-                "avatar": "https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg",
-                "createdAt": "2023-03-01T12:32:14.211Z"
-            },
+            "userId": 2,
             "likeCount": 10,
             "commentCount": 4,
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
@@ -86,13 +74,7 @@
         },
         {
             "id": "3",
-            "user": {
-                "id": "3",
-                "username": "Griffin_Corkery43",
-                "name": "Brad Stanton",
-                "avatar": "https://images.pexels.com/photos/11773465/pexels-photo-11773465.jpeg",
-                "createdAt": "2023-03-01T11:59:10.848Z"
-            },
+            "userId": 3,
             "likeCount": 24,
             "commentCount": 5,
             "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
@@ -107,13 +89,7 @@
         },
         {
             "id": "4",
-            "user": {
-                "id": "4",
-                "username": "Kailee.Parisian",
-                "name": "Milton Zulauf",
-                "avatar": "https://images.pexels.com/photos/13899908/pexels-photo-13899908.jpeg",
-                "createdAt": "2023-02-28T21:43:17.874Z"
-            },
+            "userId": 4,
             "likeCount": 137,
             "commentCount": 50,
             "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
@@ -133,13 +109,7 @@
         },
         {
             "id": "5",
-            "user": {
-                "id": "4",
-                "username": "Kailee.Parisian",
-                "name": "Milton Zulauf",
-                "avatar": "https://images.pexels.com/photos/13899908/pexels-photo-13899908.jpeg",
-                "createdAt": "2023-02-28T21:43:17.874Z"
-            },
+            "userId": 4,
             "likeCount": 786,
             "commentCount": 100,
             "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
@@ -154,13 +124,7 @@
         },
         {
             "id": "6",
-            "user": {
-                "id": "5",
-                "username": "Barrett.Okuneva66",
-                "name": "Dan Gorczany",
-                "avatar": "https://images.pexels.com/photos/14454924/pexels-photo-14454924.jpeg",
-                "createdAt": "2023-02-28T15:27:59.212Z"
-            },
+            "userId": 5,
             "likeCount": 2,
             "commentCount": 1,
             "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
@@ -175,13 +139,7 @@
         },
         {
             "id": "7",
-            "user": {
-                "id": "1",
-                "username": "Dylan_Wehner",
-                "name": "Miss Yvette Cummings",
-                "avatar": "https://images.pexels.com/photos/2132126/pexels-photo-2132126.jpeg",
-                "createdAt": "2023-03-01T04:16:21.098Z"
-            },
+            "userId": 1,
             "likeCount": 76,
             "commentCount": 9,
             "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
@@ -196,13 +154,7 @@
         },
         {
             "id": "8",
-            "user": {
-                "id": "3",
-                "username": "Griffin_Corkery43",
-                "name": "Brad Stanton",
-                "avatar": "https://images.pexels.com/photos/11773465/pexels-photo-11773465.jpeg",
-                "createdAt": "2023-03-01T11:59:10.848Z"
-            },
+            "userId": 3,
             "likeCount": 99,
             "commentCount": 45,
             "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
@@ -222,13 +174,7 @@
         },
         {
             "id": "9",
-            "user": {
-                "id": "5",
-                "username": "Barrett.Okuneva66",
-                "name": "Dan Gorczany",
-                "avatar": "https://images.pexels.com/photos/14454924/pexels-photo-14454924.jpeg",
-                "createdAt": "2023-02-28T15:27:59.212Z"
-            },
+            "userId": 5,
             "likeCount": 88,
             "commentCount": 15,
             "description": "The Football Is Good For Training And Recreational Purposes",
@@ -248,13 +194,7 @@
         },
         {
             "id": "10",
-            "user": {
-                "id": "4",
-                "username": "Kailee.Parisian",
-                "name": "Milton Zulauf",
-                "avatar": "https://images.pexels.com/photos/13899908/pexels-photo-13899908.jpeg",
-                "createdAt": "2023-02-28T21:43:17.874Z"
-            },
+            "userId": 4,
             "likeCount": 43,
             "commentCount": 5,
             "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
